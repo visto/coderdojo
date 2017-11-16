@@ -7,12 +7,14 @@ git clone https://github.com/ReneHollander/empty-spigot-plugin.git
 
 
 IDEA:
-https://www.jetbrains.com/idea/download/
-
-Configure Project
+Download https://www.jetbrains.com/idea/download/ and install
 Add Java SKD
 
-Linux/OSX
+Configure>> Project Defaults >> Project Structure >> Project >> New... >> /Library/Java/JavaVirtualMachines/jdk1.8.0_xxx.jdk/Contents/Home
+
+
+Linux/OSX: 
+
 Open Terminal
 Navigate into cloned repository
 Execute:
