@@ -16,8 +16,8 @@ Execute:
 
 # IDEA:
 Download https://www.jetbrains.com/idea/download/ and install
-Add Java SKD
 
+Add Java SKD:
 Configure>> Project Defaults >> Project Structure >> Project >> New... >> /Library/Java/JavaVirtualMachines/jdk1.8.0_xxx.jdk/Contents/Home
 
 
