@@ -40,4 +40,10 @@ Spigot is a fork from CraftBukkit and Bukkit-API. So it's basically the same as 
 
 Now go on and modify the code as shown in the tutorial :) 
 
+# Books
+
+This section is as well in progress, but I've skimmed throught this book and it seems to be okay:
+[Absolute Beginner's Guide to Minecraft Mods Programming](https://books.google.de/books?id=Aa0wBQAAQBAJ&printsec=frontcover&dq=minecraft+mods+programming&hl=de&sa=X&ved=0ahUKEwiOhIPj7MjXAhWOzaQKHaNvCmAQ6AEIJzAA#v=onepage&q=minecraft%20mods%20programming&f=false)
+
+
 
