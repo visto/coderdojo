@@ -32,7 +32,7 @@ Open the empty spigot plugin project in IntelliJ by opening the created .ipr fil
 # Tutorials
 Spigot is a fork from CraftBukkit and Bukkit-API. So it's basically the same as CraftBukkit and Bukkit-API. So you would search for CraftBukkit Tutorials. For example: 
 
-https://bukkit.gamepedia.com/Plugin_Tutorial#Setting_a_Player_on_Fire
+[Setting a Player on Fire](https://bukkit.gamepedia.com/Plugin_Tutorial#Setting_a_Player_on_Fire)
 
 Now go on and modify the code as shown in the tutorial :) 
 
