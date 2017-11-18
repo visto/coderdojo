@@ -4,7 +4,7 @@
 
 # Code: 
 
-Go ahead an visit Rene Hollander's (page)[https://github.com/ReneHollander/empty-spigot-plugin.git]
+Go ahead an visit Rene Hollander's [page](https://github.com/ReneHollander/empty-spigot-plugin.git)
 and download the zip or just:
 
 git clone https://github.com/ReneHollander/empty-spigot-plugin.git
@@ -19,7 +19,7 @@ Execute:
 ./gradlew build
 
 # IDEA:
-Download (IDEA CE)[https://www.jetbrains.com/idea/download/] and install
+Download [IDEA CE](https://www.jetbrains.com/idea/download/) and install
 
 Add Java SKD:
 Configure>> Project Defaults >> Project Structure >> Project >> New... >> /Library/Java/JavaVirtualMachines/jdk1.8.0_xxx.jdk/Contents/Home
