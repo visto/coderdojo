@@ -3,7 +3,7 @@
 
 # Minecraft:
 If you don't own a minecraft account yet and you are not able to pay the regular price go ahead and purchase a used account
-from a page like [playerauctions.com](https://www.playerauctions.com/minecraft-account/). Personally I haven't tried that
+from a page like [playerauctions.com](https://www.playerauctions.com/minecraft-account/) (Credits go to lil Dean from CoderDojo Berlin. Thank you about that info, buddy). Personally I haven't tried bying from this site
 yet so be adviced that some common sense mistrust should be applied. 
 
 # Code: 
