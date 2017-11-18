@@ -3,7 +3,7 @@
 
 
 # Code: 
-git clone [[https://github.com/ReneHollander/empty-spigot-plugin.git]]
+git clone {{ https://github.com/ReneHollander/empty-spigot-plugin.git]] }}
 
 Linux/OSX: 
 
