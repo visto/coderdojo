@@ -1,4 +1,4 @@
-## CodeDojo Berlin - Minecraft Einführung
+## CodeDojo Berlin - Minecraft Intro
 
 
 # Minecraft:
