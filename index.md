@@ -1,6 +1,10 @@
 ## CodeDojo Berlin - Minecraft Einführung
 
 
+# Minecraft:
+If you don't own a micraft account yet and you are not able to pay the regular price go ahead and purchase an account
+from a page like [playerauctions.com](https://www.playerauctions.com/minecraft-account/). Personally I haven't tried that
+yet so be adviced that some common sense mistrust should be applied. 
 
 # Code: 
 
